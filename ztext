@@ -1,0 +1,9 @@
+        
+        //MYCOLOR
+        background: linear-gradient(135deg , rgba(241, 224, 177, 0.692), rgb(240, 153, 39));
+        #ffa404;
+
+        //Membuat filter white pada svg
+        style="filter:invert(1);
+
+        <a href="#"><img src="img/settings.svg" width="7%"  style="filter:invert(1);" ><span> Settings </span></a>
